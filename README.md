@@ -33,3 +33,5 @@ This repository is part of a project aimed at creating a specialised search engi
   - AI for Healthcare: 10 documents
  
   - (Add any additional sections or information as necessary.)
+
+Save pdf files as 'AuthorYearKeyword.pdf, e.g., Smith2019DeepLearning.pdf.'
