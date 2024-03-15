@@ -1,7 +1,7 @@
 # ML-Literature-Search-Engine-Resources
 
 ## Introduction
-This repository is part of a project aimed at creating a specialized search engine for academic machine learning literature. It will serve as a collection point for relevant academic papers divided across various subfields of machine learning.
+This repository is part of a project aimed at creating a specialised search engine for academic machine learning literature. It will serve as a collection point for relevant academic papers divided across various subfields of machine learning.
 
 ## Document Collection Goals
 The goal is to gather a comprehensive set of documents that provide a wide-ranging overview of the field. Here are the targets for each category:
