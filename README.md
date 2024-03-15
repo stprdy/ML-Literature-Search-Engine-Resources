@@ -6,14 +6,14 @@ This repository is part of a project aimed at creating a specialised search engi
 ## Document Collection Goals
 
 **Scope**: Must fit within our defined machine learning subfields.
- **Peer Review**: Only peer-reviewed papers from reputable sources.
- **Recency**: Published within the last 5 years; seminal works can be older.
- **Citations**: Preferably high citation count indicating impact.
- **Accessibility**: Full texts should be publicly accessible or available through common academic subscriptions.
-- **Diversity**: A mix of authors, institutions, and geographies.
-- **Methodology**: Clear, rigorous, and well-documented research methods.
-- **Innovation**: Contributions that offer new insights or methods are prioritized.
-- **Language**: English, or include an English summary if foundational.
+**Peer Review**: Only peer-reviewed papers from reputable sources.
+**Recency**: Published within the last 5 years; seminal works can be older.
+**Citations**: Preferably high citation count indicating impact.
+**Accessibility**: Full texts should be publicly accessible or available through common academic subscriptions.
+**Diversity**: A mix of authors, institutions, and geographies.
+**Methodology**: Clear, rigorous, and well-documented research methods.
+**Innovation**: Contributions that offer new insights or methods are prioritized.
+**Language**: English, or include an English summary if foundational.
 
 - **Supervised Learning**: 25 documents
 - **Unsupervised Learning**: 20 documents
