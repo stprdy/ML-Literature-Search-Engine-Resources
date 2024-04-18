@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Results</title>
+</head>
+<body>
+    <h1>Search Results</h1>
+    {% if results %}
+        <ul>
+            {% for result in results %}
+                <li>
+                    <h2>{{ result.title }}</h2>
+                    <p>Score: {{ result.score | safe  }}</p>
+                    <p>{{ result.snippet }}</p>
+                    <p>Path: {{ result.path }}</p>
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No results found</p>
+    {% endif %}
+    <a href="/">New Search</a>
+</body>
+</html>
