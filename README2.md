@@ -16,8 +16,8 @@ pip install fastapi uvicorn whoosh jinja2
 ```
 
 ```
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/stprdy/ML-Literature-Search-Engine-Resources.git
+cd ML-Literature-Search-Engine-Resources
 pip install -r requirements.txt
 ```
 
